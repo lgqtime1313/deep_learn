@@ -1,0 +1,21 @@
+[project]
+name = "lvgq-d2l-zh"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "black>=26.3.1",
+    "d2l>=0.17.0",
+    "flake8>=7.3.0",
+    "isort>=8.0.1",
+    "jupyterlab>=4.5.6",
+    "jupyterlab-language-pack-zh-cn>=4.5.post2",
+    "jupyterlab-lsp>=5.2.0",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "python-lsp-server>=1.14.0",
+    "torch>=2.10.0",
+    "torchaudio>=2.10.0",
+    "torchvision>=0.25.0",
+]
